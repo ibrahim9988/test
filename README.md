@@ -1,1 +1,3 @@
-what purpose of ths rep
+
+this repo for be memort test
+
