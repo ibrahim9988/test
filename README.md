@@ -1,3 +1,3 @@
 
-this repo for be memort test
+random script 
 
